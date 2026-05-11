@@ -1,7 +1,7 @@
 # OrdosDB
 
 ## AI-Empowered Massive Parallel Processing (MPP) Database
-
+![OrdosDB](./ordosdb_logo.png)
 Hybrid MPP Database with AI Capabilities.
 
 ---
