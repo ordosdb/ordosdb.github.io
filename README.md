@@ -72,7 +72,8 @@ ordosdb @ ordosdb.com.cn
 
 ## 🌐 Community
 
-- WeChat  
+- WeChat
+  ![OrdosDB](./ordosdb_qrcode.jpg)
 - LinkedIn: https://www.linkedin.com/groups/20710026/  
 - Twitter (X): https://twitter.com  
 
